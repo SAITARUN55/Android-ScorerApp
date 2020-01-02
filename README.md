@@ -19,9 +19,9 @@ The app is also engrossed with the features of Undo and reset.Reset sets score o
  <img src="assets/volleyball.jpg" height="333em" /> <img src="assets/badminton.jpg" height="333em" /> <img src="assets/tabletennis.jpg" height="333em" /> <img src="assets/cricket_tournament.jpg" height="333em" />
  <img src="assets/cricket.jpg" height="333em" /> <img src="assets/football.jpg" height="333em" /> <img src="assets/kabaddi.jpg" height="333em" /> <img src="assets/lawntennis.jpg" height="333em" />
 
-<!---### Download the app  --->
+### Download the app
 
-<!---You can download by clicking [here](https://github.com/NJACKWinterOfCode/WhatsApp-Direct-Message/raw/master/apk/WhatsApp_Direct_Message.apk) :-) --->
+You can download by clicking [here](https://github.com/NJACKWinterOfCode/Android-ScorerApp/raw/master/Scorecounter/app/release/scorer.apk)
 
 ### Install and contribute
 
